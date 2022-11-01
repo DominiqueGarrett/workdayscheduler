@@ -62,16 +62,14 @@ Past, Present, & Future
 
 List of collaborators: N/A
 
-Third-party assets that require attribution: 
-https://github.com/mmeii/code-quiz
-https://github.com/dsmooke/timed-code-quiz
-https://github.com/JustinMarchi/Homework4-CodeQuiz.github.io
-https://github.com/hilbug/04-code-quiz
+Third-party assets that require attribution: jQuery
 
 
 
 Tutorials:
-
+https://www.youtube.com/watch?v=vBB_upXuqXY
+https://www.youtube.com/watch?v=K1jEbbqRiN4
+https://www.youtube.com/watch?v=TBiFY8UYHoo
 
 
 
@@ -83,4 +81,4 @@ MIT License
 
 # Technologies Used: 
 
-HTML, CSS, Javascript
+HTML, CSS, Javascript, jQuery
