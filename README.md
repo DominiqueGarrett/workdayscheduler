@@ -4,7 +4,7 @@ Bootcamp Module 5 Challenge Assignment: Work Day Scheduler
 
 ## Description
 
-Calendar application that allows a user to save events for each hour of the business day day. The interface will display the hours of the day, have content boxes the user can record events for each hour, and will highlight the a time slot based on the current time. It utilizes moment.js to manage the dates and times.
+Calendar application that allows a user to save events for each hour of the business day day. The interface will display the hours of the day. Application will also have content boxes the user can use to enter different events for each hour, and will highlight the a time slot based on the current time. It utilizes moment.js to manage the dates and times as well as jQuery.
 
 
 
@@ -62,7 +62,7 @@ Past, Present, & Future
 
 List of collaborators: N/A
 
-Third-party assets that require attribution: jQuery
+Third-party assets that require attribution: jQuery &  moment.js
 
 
 
