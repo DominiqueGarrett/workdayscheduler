@@ -45,9 +45,13 @@ THEN the saved events persist
 ## Usage
 
 Planner
+
+
 <img width="1127" alt="Screen Shot 2022-11-01 at 1 49 43 AM" src="https://user-images.githubusercontent.com/114618684/199176232-45c04ad4-0ea1-4144-be72-9f9b2d9db72a.png">
 
 Past, Present, & Future
+
+
 <img width="460" alt="Screen Shot 2022-11-01 at 1 54 47 AM" src="https://user-images.githubusercontent.com/114618684/199176434-63e387e8-93d2-4125-ac63-5d769d74e4f6.png">
 
 
