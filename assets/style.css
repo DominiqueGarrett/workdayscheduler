@@ -43,29 +43,29 @@ textarea{
 }
 
 .hour {
-  background-color: #FF7A63;
-  color: #275244;
+  background-color: #ffffff;
+  color: #000000;
   border-top: 1px dashed #275244;
   border-top-left-radius: 9px;
   border-bottom-left-radius: 9px;
 }
 
 .past {
-  background-color: #d3d3d3;
-  color: #275244;
+  background-color: #b9b9b9;
+  color: #000000;
   font-style: italic;
   text-transform: capitalize;
 }
 
 .present {
-  background-color: #FF7A63;
-  color: white;
+  background-color: #e73a1b;
+  color: rgb(0, 0, 0);
   text-transform: uppercase;
 }
 
 .future {
-  background-color: #FDF8F5;
-  color: rgb(110, 78, 78);
+  background-color: #28d811;
+  color: rgb(0, 0, 0);
   text-transform: capitalize;
 }
 
@@ -73,7 +73,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #275244;
+  background-color: #3c91e6;
   color: #FFFAF0;
 }
 
